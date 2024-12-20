@@ -6,19 +6,17 @@ This is website for the BrickMMO SCILS guidelines.
 
 ## Project Stack
 
-This project uses only [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
+This project uses a [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
-<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/markdown" width="60">
+<img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/css" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60">
 
 ---
 
 ## Repo Resources
 
-- [BrickMMO Contributions](https://contributions.brickmmo.ca)
-- [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [Markdown](https://www.markdownguide.org/)
+* [BrickMMO](https://www.brickmmo.com/)
+* [SCILS](https://scils.brickmmo.com/)
 
 <a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
+<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="300">
 </a>
-
