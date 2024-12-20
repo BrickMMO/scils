@@ -1,6 +1,6 @@
 # Smart City Integrated Landscaping Systems
 
-This is website for the BrickMMO SCILS guidelines. 
+This is website for the BrickMMO SCILS guidelines. This website will be similar to the [MILS](https://www.abellon.net/MILS/) guide. Instructions and 3D images were generated using [Studio](https://www.bricklink.com/v3/studio/download.page).
 
 ---
 
@@ -16,6 +16,8 @@ This project uses a [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [
 
 * [BrickMMO](https://www.brickmmo.com/)
 * [SCILS](https://scils.brickmmo.com/)
+* [MILS](https://www.abellon.net/MILS/)
+* [Studio](https://www.bricklink.com/v3/studio/download.page)
 
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="300">
