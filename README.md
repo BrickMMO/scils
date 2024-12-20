@@ -20,5 +20,5 @@ This project uses a [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [
 * [Studio](https://www.bricklink.com/v3/studio/download.page)
 
 <a href="https://brickmmo.com">
-<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="300">
+<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
 </a>
