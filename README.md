@@ -18,7 +18,7 @@ This project uses a [W3.CSS](https://www.w3schools.com/), [HTML](https://develop
 ## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
-* [SCILS](https://scils.brickmmo.com/)
+* [BrickMMO SCILS](https://scils.brickmmo.com/)
 * [Studio](https://www.bricklink.com/v3/studio/download.page)
 
 <a href="https://brickmmo.com">
