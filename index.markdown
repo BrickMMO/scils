@@ -3,9 +3,16 @@
 
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
+**SCILS: Smart City Integrated Landscaping System**
+
 ## What is SCILS?
 
-It is...
+The [BrickMMO](https://brickmmo.com) smart city development platform requires that city layouts be based on the Smart City Integrated Landscaping System. This ensures that the existing BrickMMO applications will be compatible with your city layout.
+
+
+![BrickMMO Maps App](images/screenshot-maps.png)
+
+This guide will provide examnples of roads, train tracks, blocks, and train crossings. 
 
 ---
 
