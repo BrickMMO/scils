@@ -9,10 +9,15 @@
 
 The [BrickMMO](https://brickmmo.com) smart city development platform requires that city layouts be based on the Smart City Integrated Landscaping System. This ensures that the existing BrickMMO applications will be compatible with your city layout.
 
-
 ![BrickMMO Maps App](images/screenshot-maps.png)
 
-This guide will provide examnples of roads, train tracks, blocks, and train crossings. 
+This guide will provide examples of roads, train tracks, blocks, and train crossings. 
+
+## Black Foundation
+
+All blocks start with the same lock foundation:
+
+![City Block](https://ldr.brickmmo.com/city-block/city-block.png)
 
 ---
 
