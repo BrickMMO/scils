@@ -26,7 +26,6 @@ You may downlod the [City Block Instructions PDF](city-block/city-block.pdf) or 
 ![Step 12](city-block/12_1x.png)
 ![Step 13](city-block/13_1x.png)
 
-
 ---
 
 <a href="https://brickmmo.com">

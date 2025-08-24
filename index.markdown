@@ -18,9 +18,9 @@ This guide will provide examples of roads, train tracks, blocks, and train cross
 Click on a block type for building instructions:
 
 <a href="/city-block"><img alt="City Block" src="https://ldr.brickmmo.com/city-block/city-block.png" width="200"></a> 
-<a href=""><img alt="City Block Road Straight" src="https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.png
+<a href="/city-block-road-straight"><img alt="City Block Road Straight" src="https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.png
 " width="200"></a>
-<a href=""><img alt="City Block Track Straight" src="https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straight.png" width="200"></a>
+<a href="/city-block-track-straight"><img alt="City Block Track Straight" src="https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straight.png" width="200"></a>
 
 ---
 
