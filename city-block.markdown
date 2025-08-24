@@ -6,8 +6,6 @@
 
 All city blocks are made up of the following foundation:
 
-![City Block](https://ldr.brickmmo.com/city-block/city-block.png)
-
 <iframe src="https://pages.codeadam.ca/ldr-viewer/view?background=4293848814&filename=city-block.packed.mpd&path=https://ldr.brickmmo.com/city-block/" height="500" width="100%" frameborder="0" allowtransparency id="iframe"></iframe>
 
 ---
