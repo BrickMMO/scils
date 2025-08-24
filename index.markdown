@@ -17,7 +17,8 @@ This guide will provide examples of roads, train tracks, blocks, and train cross
 
 All blocks start with the same lock foundation:
 
-![City Block](https://ldr.brickmmo.com/city-block/city-block.png)
+<img alt="City Block" src="https://ldr.brickmmo.com/city-block/city-block.png" width="200"> <img alt="City Block Road Straight" src="https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.png
+" width="200"> <img alt="City Block Track Straight" src="https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straight.png" width="200"> 
 
 ---
 
