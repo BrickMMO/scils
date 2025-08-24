@@ -13,7 +13,7 @@ The [BrickMMO](https://brickmmo.com) smart city development platform requires th
 
 This guide will provide examples of roads, train tracks, blocks, and train crossings. 
 
-## Black Foundation
+## Block Foundation
 
 All blocks start with the same lock foundation:
 
