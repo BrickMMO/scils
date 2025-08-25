@@ -12,7 +12,7 @@ These are the designs for a straight road:
 
 ### Instructions
 
-You may downlod the [City Block Straight Road Instructions PDF](city-block/city-block-road-straight.pdf) or use the images below:
+You may downlod the [City Block Straight Road Instructions PDF](city-block-road-straight/city-block-road-straight.pdf) or use the images below:
 
 ![Step 1](city-block-road-straight/1_1x.png)
 ![Step 2](city-block-road-straight/2_1x.png)
