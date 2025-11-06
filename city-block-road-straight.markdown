@@ -44,4 +44,11 @@ You may downlod the [City Block Straight Road Instructions PDF](city-block-road-
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
 </a>
 
-<script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
+<script 
+    src="https://cdn.brickmmo.com/bar@1.1.0/bar.js"
+    data-console="false"
+    data-menu="false"
+    data-admin="false"
+    data-local="false"
+    data-https="true"
+></script>
