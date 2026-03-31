@@ -10,7 +10,7 @@ All city blocks are made up of the following foundation:
 
 ### Instructions
 
-You may downlod the [City Block Instructions PDF](city-block/city-block.pdf) or use the images below:
+You may download the [City Block Instructions PDF](city-block/city-block.pdf) or use the images below:
 
 ![Step 1](city-block/1_1x.png)
 ![Step 2](city-block/2_1x.png)
