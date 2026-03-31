@@ -10,7 +10,7 @@ These are the designs for a straight train track:
 
 ### Instructions
 
-You may downlod the [City Block Straight Track Instructions PDF](city-block-track-straight/city-block-track-straight.pdf) or use the images below:
+You may download the [City Block Straight Track Instructions PDF](city-block-track-straight/city-block-track-straight.pdf) or use the images below:
 
 ![Step 1](city-block-track-straight/1_1x.png)
 ![Step 2](city-block-track-straight/2_1x.png)
